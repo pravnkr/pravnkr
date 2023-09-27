@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 👋 Hi, I’m *Praveen Kumar*. I'm a New Delhi, India based Full stack developer with 5+ years of experience in developing micro services, REST driven API's and web based UI with smooth UX using tech stack like Spring-Boot, Angular and NodeJs.Throughout my career I have worked with multiple agile teams and delivered successful products in various domains like Automobile, Fintech, Law and Food based SaaS driven platforms.
 
-💞️ I'm skilled in these technologies and actively 👀 for a freelancing or full time opportunities:
+💞️ I'm skilled in these technologies:
 - Java 8, lambdas, stream API, Functional Programming.
 - Spring Boot, Hibernate, Other Spring projects.
 - Spring cloud
