@@ -8,10 +8,10 @@ You can click the Preview link to take a look at your changes.
 - Java 8, lambdas, stream API, Functional Programming.
 - Spring Boot, Hibernate, Other Spring projects.
 - Spring cloud
-- NodeJs, Angular(2+), RxJs, NestJs.
+- NodeJs, Angular(2+), RxJs, React.
 - Microservices
 - Docker
-- Writing SQL queries in PostgresQL, MySQL
+- PostgresQL, MySQL
 
 You can always reach me on phone: ✨*(+91)-8368220140*✨ or email: ✨*praveenkumar8484@outlook.com*✨
 ---
